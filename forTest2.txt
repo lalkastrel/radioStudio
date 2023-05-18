@@ -1,0 +1,2 @@
+fsdf;asdsdf;02.01.2020;03.02.2020;Ready;
+fsdf;asdsdf;02.01.2020;03.02.2020;Not ready;
